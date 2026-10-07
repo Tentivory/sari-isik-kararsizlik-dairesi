@@ -1,0 +1,10 @@
+========================================
+ SARI ISIK KARARSIZLIK DAIRESI
+ ORNEK DOSYA / ELLE ISLENMISTIR
+========================================
+Evrak   : SKD-2026-ORNEK
+Hiz     : 48.0 km/s
+Mesafe  : 22.0 m
+Sari    : 1.4 sn
+Hukum   : GEC
+Not     : Surucu sarida goz kirpti, daire bunu beyan saydi.
